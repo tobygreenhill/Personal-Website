@@ -1,0 +1,24 @@
+{
+  "name": "personal-website",
+  "version": "1.0.0",
+  "description": "The Website for personal use.",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server ./static",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tobygreenhill/Personal-Website.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tobygreenhill/Personal-Website/issues"
+  },
+  "homepage": "https://github.com/tobygreenhill/Personal-Website#readme",
+  "devDependencies": {
+    "live-serve": "^0.0.0",
+    "live-server": "^1.2.1"
+  }
+}
